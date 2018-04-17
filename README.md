@@ -2,6 +2,8 @@
 
 In addition to Webpack and React, this box adds: React-Router, Redux and Material-UI for easy skinning of a Dapp.
 
+Also, check out my course [How To Write A React DApp For Ethereum](http://reactdapps.com/), and learn how to connect a professional front-end application to a Smart Contract.  The course also shows you how to integrate your DApp with MetaMask!
+
 ## Installation
 
 1. Install truffle and an ethereum client. For local development, try EthereumJS TestRPC.
